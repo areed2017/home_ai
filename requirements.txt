@@ -1,0 +1,4 @@
+argparse==1.4.0
+importlib=1.0.4
+pyttsx3==2.90
+requests==2.26.0
